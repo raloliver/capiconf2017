@@ -7,7 +7,7 @@
 
 > RESTApi: estude essa parada!
 > zsh para windows
-> Ver perfil do [GitHub](http://github.com/cynthiazanoni) da Cynthia Zanoni
+> Ver perfil do [GitHub](http://github.com/cyz) da Cynthia Zanoni
 > As vezes, você pode pensar se faz o frankeisten ou se constroi do zero.
 
 ## NoSqlProblem
